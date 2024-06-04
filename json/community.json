@@ -1,0 +1,68 @@
+﻿[
+    {
+        "community_id": 1,
+        "title": "티빙 인원모집",
+        "contents": "이번달 한달 티빙같이 사용하실분 구합니다!! 요금제는 프리미엄 결제할 예정이고 4명다 모아지면 인당 3745원씩 내시고 사용하실수있습니다!! 같이 사용하실 분들은 댓글남겨주세요!!",
+        "spoiler": 0,
+        "total_recruit": 4,
+        "current_recruit": 4,
+        "recruit_status": 0,
+        "date": "2024-06-04",
+        "user_id": 1
+    },
+    {
+        "community_id": 2,
+        "title": "웨이브 인원모집",
+        "contents": "이번달 한달 웨이브같이 사용하실분 구합니다!! 요금제는 프리미엄 결제할 예정이고 4명다 모아지면 인당 3746원씩 내시고 사용하실수있습니다!! 같이 사용하실 분들은 댓글남겨주세요!!",
+        "spoiler": 0,
+        "total_recruit": 4,
+        "current_recruit": 0,
+        "recruit_status": 1,
+        "date": "2024-06-04",
+        "user_id": 1
+    },
+    {
+        "community_id": 3,
+        "title": "어쩌다 마주친 그대 예고편 본사람?",
+        "contents": "와 진영 특별출연 뭐야...? 진심 또 뭐가 나오려나보네ㄷㄷ 막방은 무슨일이있어도 본방사수한다!! 진영 뭐야 진짜 궁금해죽겠네",
+        "spoiler": 0,
+        "total_recruit": 4,
+        "current_recruit": 3,
+        "recruit_status": 0,
+        "date": "2024-06-04",
+        "user_id": 2
+    },
+    {
+        "community_id": 4,
+        "title": "선업튀 cgv",
+        "contents": "와 드라마 인생 18년차인데 드라마 영화로 만든 것도 아니고 드라마 자체를 영화관에서 방영하는건 또 첨보네...",
+        "spoiler": 0,
+        "total_recruit": 2,
+        "current_recruit": 1,
+        "recruit_status": 0,
+        "date": "2024-06-04",
+        "user_id": 2
+    },
+    {
+        "community_id": 5,
+        "title": "응칠 성시원ㅋㅋㅋ",
+        "contents": "아 시원이 HOT우비 찢어진거보고 비오는 길바닥에서 울고불고 짜증내는 장면보고 개뿜었네ㅋㅋㅋ 응칠 대존잼ㅋㅋㅋ",
+        "spoiler": 1,
+        "total_recruit": 4,
+        "current_recruit": 3,
+        "recruit_status": 0,
+        "date": "2024-06-04",
+        "user_id": 2
+    },
+    {
+        "community_id": 6,
+        "title": "언터처블 막방 뭐냐",
+        "contents": "언터처블 막방보고 놀랬네;;; 나만 북한생각난건가...? 와 무슨 군대도 아니고 타이어끌고 시장 사진이 대문짝만하게 있고... 와 진짜 막판에 소름돋는다...",
+        "spoiler": 1,
+        "total_recruit": 3,
+        "current_recruit": 1,
+        "recruit_status": 0,
+        "date": "2024-06-04",
+        "user_id": 3
+    }
+]
