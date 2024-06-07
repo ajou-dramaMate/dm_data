@@ -1,27 +1,27 @@
 [
-    {
-        "email": "test1@email",
-        "name": "test1",
-	"refresh_token": ""
-    },
-{
-        "email": "test2@email",
-        "name": "test2",
-	"refresh_token": ""
-    },
-{
-        "email": "test3@email",
-        "name": "test3",
-	"refresh_token": ""
-    },
-{
-        "email": "test4@email",
-        "name": "test4",
-	"refresh_token": ""
-    },
-{
-        "email": "test4@email",
-        "name": "test4",
-	"refresh_token": ""
-    }
+  {
+    "email": "test1@email",
+    "name": "소라게",
+    "refresh_token": ""
+  },
+  {
+    "email": "test2@email",
+    "name": "세잎클로버",
+    "refresh_token": ""
+  },
+  {
+    "email": "test3@email",
+    "name": "신난 마동석",
+    "refresh_token": ""
+  },
+  {
+    "email": "test4@email",
+    "name": "깜찍한 김혜수",
+    "refresh_token": ""
+  },
+  {
+    "email": "test4@email",
+    "name": "강인한 조인성",
+    "refresh_token": ""
+  }
 ]
